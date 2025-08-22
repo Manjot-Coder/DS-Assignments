@@ -54,12 +54,13 @@ int main(){
     string str = "Hello";
     string str2 = " hi";
     string str3 = "aeiouAEIOUM1";
-    string str4 = "MadhAv";
+    string str4 = "Manjot";
     // cout<<concatenateStrings(str, str2) << endl;
     // cout << reverse(str) << endl;
     // cout << removeVowels(str3) << endl;
     // sort(str4);
     // cout<<str4;
     cout<<upper_to_lowercase(str3);
+
 
 }
